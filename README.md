@@ -19,7 +19,7 @@ Dump characters in file
 hexdump -C <file>
 ```
 
-Display the list of all the users logged in and out since the file /var/log/wtmp was created
+Display the list of all the users logged in and out since the file `/var/log/wtmp` was created
 
 ```
 last
