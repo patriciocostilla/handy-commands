@@ -10,3 +10,7 @@ View last log in date for all users
 ```
 lastlog
 ```
+Dump characters in file
+```
+hexdump -C <file>
+```
