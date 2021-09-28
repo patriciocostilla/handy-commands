@@ -5,3 +5,8 @@ Remove all `<folder>` folders in working tree:
 ```
 find . -name <folder> | xargs rm -R
 ```
+
+View last log in date for all users
+```
+lastlog
+```
